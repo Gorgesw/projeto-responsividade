@@ -13,7 +13,7 @@
         & img.desktop-only {
             position: absolute;
             max-width: 15rem;
-            filter: drop-shadow(1rem 1rem 5rem black);
+            filter: drop-shadow(1rem 1rem 5rem rgb(19, 19, 19));
 
 
 
