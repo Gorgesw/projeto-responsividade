@@ -2,8 +2,8 @@
     padding-block: var(--py-base);
 }
 
-.py-large {
-    padding-block: var(--py-large);
+.py-lg {
+    padding-block: var(--py-lg);
 }
 
 
